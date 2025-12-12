@@ -17,5 +17,5 @@ ij_kotlin_line_break_after_multiline_when_entry = false
 ktlint_standard_multiline-if-else = disabled
 ktlint_standard_if-else-wrapping = disabled
 
-[src/test/**/*.{kt,kts}]
+[**/test/kotlin/**/*.{kt,kts}]
 ktlint_standard_class-signature = disabled
